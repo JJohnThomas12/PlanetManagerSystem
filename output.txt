@@ -1,0 +1,492 @@
+./planet
+
+1. Add planet
+2. Delete planet
+3. Find planet
+4. Show all planets
+5. Sort planets
+6. Quit
+
+Enter your choice: 4
+
+List is empty!
+
+1. Add planet
+2. Delete planet
+3. Find planet
+4. Show all planets
+5. Sort planets
+6. Quit
+
+Enter your choice: 1
+
+Enter the name of the planet: Earth
+Enter the mass of the planet (kg): 46.5
+Enter the diameter of the planet (m): 78.9
+
+Planet added successfully!
+
+1. Add planet
+2. Delete planet
+3. Find planet
+4. Show all planets
+5. Sort planets
+6. Quit
+
+Enter your choice: 1
+
+Enter the name of the planet: Mars
+Enter the mass of the planet (kg): 56.7
+Enter the diameter of the planet (m): 89.3
+
+Planet added successfully!
+
+1. Add planet
+2. Delete planet
+3. Find planet
+4. Show all planets
+5. Sort planets
+6. Quit
+
+Enter your choice: 1
+
+Enter the name of the planet: Venus
+Enter the mass of the planet (kg): 45
+Enter the diameter of the planet (m): 67
+
+Planet added successfully!
+
+1. Add planet
+2. Delete planet
+3. Find planet
+4. Show all planets
+5. Sort planets
+6. Quit
+
+Enter your choice: 1
+
+Enter the name of the planet: Jupiter
+Enter the mass of the planet (kg): 68
+Enter the diameter of the planet (m): 24
+
+Planet added successfully!
+
+1. Add planet
+2. Delete planet
+3. Find planet
+4. Show all planets
+5. Sort planets
+6. Quit
+
+Enter your choice: 1
+
+Enter the name of the planet: Apollo
+Enter the mass of the planet (kg): 45
+Enter the diameter of the planet (m): 26
+
+Planet added successfully!
+
+1. Add planet
+2. Delete planet
+3. Find planet
+4. Show all planets
+5. Sort planets
+6. Quit
+
+Enter your choice: 1
+
+Enter the name of the planet: Mercury
+Enter the mass of the planet (kg): 67
+Enter the diameter of the planet (m): 89
+
+Planet added successfully!
+
+1. Add planet
+2. Delete planet
+3. Find planet
+4. Show all planets
+5. Sort planets
+6. Quit
+
+Enter your choice: 4
+
+Name: Earth
+Mass: 46.5 kg
+Diameter: 78.9 m
+Surface Area: 19557.1 m^2
+Density: 0.000180811 kg/m^3
+
+Name: Mars
+Mass: 56.7 kg
+Diameter: 89.3 m
+Surface Area: 25052.6 m^2
+Density: 0.000152066 kg/m^3
+
+Name: Venus
+Mass: 45 kg
+Diameter: 67 m
+Surface Area: 14102.6 m^2
+Density: 0.000285753 kg/m^3
+
+Name: Jupiter
+Mass: 68 kg
+Diameter: 24 m
+Surface Area: 1809.56 m^2
+Density: 0.00939459 kg/m^3
+
+Name: Apollo
+Mass: 45 kg
+Diameter: 26 m
+Surface Area: 2123.72 m^2
+Density: 0.00488984 kg/m^3
+
+Name: Mercury
+Mass: 67 kg
+Diameter: 89 m
+Surface Area: 24884.6 m^2
+Density: 0.000181513 kg/m^3
+
+1. Add planet
+2. Delete planet
+3. Find planet
+4. Show all planets
+5. Sort planets
+6. Quit
+
+Enter your choice: 5
+
+Planets sorted alphabetically!
+
+1. Add planet
+2. Delete planet
+3. Find planet
+4. Show all planets
+5. Sort planets
+6. Quit
+
+Enter your choice: 4
+
+Name: Apollo
+Mass: 45 kg
+Diameter: 26 m
+Surface Area: 2123.72 m^2
+Density: 0.00488984 kg/m^3
+
+Name: Earth
+Mass: 46.5 kg
+Diameter: 78.9 m
+Surface Area: 19557.1 m^2
+Density: 0.000180811 kg/m^3
+
+Name: Jupiter
+Mass: 68 kg
+Diameter: 24 m
+Surface Area: 1809.56 m^2
+Density: 0.00939459 kg/m^3
+
+Name: Mars
+Mass: 56.7 kg
+Diameter: 89.3 m
+Surface Area: 25052.6 m^2
+Density: 0.000152066 kg/m^3
+
+Name: Mercury
+Mass: 67 kg
+Diameter: 89 m
+Surface Area: 24884.6 m^2
+Density: 0.000181513 kg/m^3
+
+Name: Venus
+Mass: 45 kg
+Diameter: 67 m
+Surface Area: 14102.6 m^2
+Density: 0.000285753 kg/m^3
+
+
+1. Add planet
+2. Delete planet
+3. Find planet
+4. Show all planets
+5. Sort planets
+6. Quit
+
+Enter your choice: 2
+
+Name of the planet that needs to be deleted: Earth
+The Planet has been destroyed!
+
+1. Add planet
+2. Delete planet
+3. Find planet
+4. Show all planets
+5. Sort planets
+6. Quit
+
+Enter your choice: 4
+
+Name: Apollo
+Mass: 45 kg
+Diameter: 26 m
+Surface Area: 2123.72 m^2
+Density: 0.00488984 kg/m^3
+
+Name: Jupiter
+Mass: 68 kg
+Diameter: 24 m
+Surface Area: 1809.56 m^2
+Density: 0.00939459 kg/m^3
+
+Name: Mars
+Mass: 56.7 kg
+Diameter: 89.3 m
+Surface Area: 25052.6 m^2
+Density: 0.000152066 kg/m^3
+
+Name: Mercury
+Mass: 67 kg
+Diameter: 89 m
+Surface Area: 24884.6 m^2
+Density: 0.000181513 kg/m^3
+
+Name: Venus
+Mass: 45 kg
+Diameter: 67 m
+Surface Area: 14102.6 m^2
+Density: 0.000285753 kg/m^3
+
+
+1. Add planet
+2. Delete planet
+3. Find planet
+4. Show all planets
+5. Sort planets
+6. Quit
+
+Enter your choice: 3
+
+Enter the name of the planet to find: Mars
+Planet found!
+Name: Mars
+Mass: 56.7 kg
+Diameter: 89.3 m
+Surface Area: 25052.6 m^2
+Density: 0.000152066 kg/m^3
+
+1. Add planet
+2. Delete planet
+3. Find planet
+4. Show all planets
+5. Sort planets
+6. Quit
+
+Enter your choice: 9
+
+Invalid choice! Please try again!
+
+1. Add planet
+2. Delete planet
+3. Find planet
+4. Show all planets
+5. Sort planets
+6. Quit
+
+Enter your choice: 6
+
+Planet data written to file successfully!
+
+./planet
+
+1. Add planet
+2. Delete planet
+3. Find planet
+4. Show all planets
+5. Sort planets
+6. Quit
+
+Enter your choice: 4
+
+Name: Apollo
+Mass: 45 kg
+Diameter: 26 m
+Surface Area: 2123.72 m^2
+Density: 0.00488984 kg/m^3
+
+Name: Jupiter
+Mass: 68 kg
+Diameter: 24 m
+Surface Area: 1809.56 m^2
+Density: 0.00939459 kg/m^3
+
+Name: Mars
+Mass: 56.7 kg
+Diameter: 89.3 m
+Surface Area: 25052.6 m^2
+Density: 0.000152066 kg/m^3
+
+Name: Mercury
+Mass: 67 kg
+Diameter: 89 m
+Surface Area: 24884.6 m^2
+Density: 0.000181513 kg/m^3
+
+Name: Venus
+Mass: 45 kg
+Diameter: 67 m
+Surface Area: 14102.6 m^2
+Density: 0.000285753 kg/m^3
+
+
+1. Add planet
+2. Delete planet
+3. Find planet
+4. Show all planets
+5. Sort planets
+6. Quit
+
+Enter your choice: 3
+
+Enter the name of the planet to find: Mercury
+Planet found!
+Name: Mercury
+Mass: 67 kg
+Diameter: 89 m
+Surface Area: 24884.6 m^2
+Density: 0.000181513 kg/m^3
+
+1. Add planet
+2. Delete planet
+3. Find planet
+4. Show all planets
+5. Sort planets
+6. Quit
+
+Enter your choice: 1
+
+Enter the name of the planet: Benjamin
+Enter the mass of the planet (kg): 6
+Enter the diameter of the planet (m): 8
+
+Planet added successfully!
+
+1. Add planet
+2. Delete planet
+3. Find planet
+4. Show all planets
+5. Sort planets
+6. Quit
+
+Enter your choice: 4
+
+Name: Apollo
+Mass: 45 kg
+Diameter: 26 m
+Surface Area: 2123.72 m^2
+Density: 0.00488984 kg/m^3
+
+Name: Jupiter
+Mass: 68 kg
+Diameter: 24 m
+Surface Area: 1809.56 m^2
+Density: 0.00939459 kg/m^3
+
+Name: Mars
+Mass: 56.7 kg
+Diameter: 89.3 m
+Surface Area: 25052.6 m^2
+Density: 0.000152066 kg/m^3
+
+Name: Mercury
+Mass: 67 kg
+Diameter: 89 m
+Surface Area: 24884.6 m^2
+Density: 0.000181513 kg/m^3
+
+Name: Venus
+Mass: 45 kg
+Diameter: 67 m
+Surface Area: 14102.6 m^2
+Density: 0.000285753 kg/m^3
+
+Name: Benjamin
+Mass: 6 kg
+Diameter: 8 m
+Surface Area: 201.062 m^2
+Density: 0.0223812 kg/m^3
+
+
+1. Add planet
+2. Delete planet
+3. Find planet
+4. Show all planets
+5. Sort planets
+6. Quit
+
+Enter your choice: 5
+
+Planets sorted alphabetically!
+
+1. Add planet
+2. Delete planet
+3. Find planet
+4. Show all planets
+5. Sort planets
+6. Quit
+
+Enter your choice: 4
+
+Name: Apollo
+Mass: 45 kg
+Diameter: 26 m
+Surface Area: 2123.72 m^2
+Density: 0.00488984 kg/m^3
+
+Name: Benjamin
+Mass: 6 kg
+Diameter: 8 m
+Surface Area: 201.062 m^2
+Density: 0.0223812 kg/m^3
+
+Name: Jupiter
+Mass: 68 kg
+Diameter: 24 m
+Surface Area: 1809.56 m^2
+Density: 0.00939459 kg/m^3
+
+Name: Mars
+Mass: 56.7 kg
+Diameter: 89.3 m
+Surface Area: 25052.6 m^2
+Density: 0.000152066 kg/m^3
+
+Name: Mercury
+Mass: 67 kg
+Diameter: 89 m
+Surface Area: 24884.6 m^2
+Density: 0.000181513 kg/m^3
+
+Name: Venus
+Mass: 45 kg
+Diameter: 67 m
+Surface Area: 14102.6 m^2
+Density: 0.000285753 kg/m^3
+
+
+1. Add planet
+2. Delete planet
+3. Find planet
+4. Show all planets
+5. Sort planets
+6. Quit
+
+Enter your choice: 6
+
+Planet data written to file successfully!
+
+cat planets.txt
+
+Apollo 45 26 
+Benjamin 6 8 
+Jupiter 68 24 
+Mars 56.7 89.3 
+Mercury 67 89 
+Venus 45 67 
